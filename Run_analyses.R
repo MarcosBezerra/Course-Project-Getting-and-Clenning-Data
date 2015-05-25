@@ -1,4 +1,4 @@
-first of all,I put all the necessary files in the working directory 
+# first of all,I put all the necessary files in the working directory 
 
 setwd("C:/Users/marco_000/Desktop/Cursos Marcos/DATA SCIENCE/Getting and Cleaning Data/Project")
 
